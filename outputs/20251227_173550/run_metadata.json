@@ -1,0 +1,36 @@
+{
+  "run_id": "20251227_173550",
+  "run_started_at": "2025-12-27 17:35:50",
+  "run_finished_at": "2025-12-27 17:35:55",
+  "duration_seconds": 5.303033,
+  "input": {
+    "path": "D:\\GitHub\\options-pricing\\data\\options.csv",
+    "sha256": "ea4b7594125af4c3fb2fb2e26ee8558a011695519f25e43414a841ac82b7c266"
+  },
+  "config": {
+    "risk_free_rate": 0.05,
+    "n_sims": 100000,
+    "seed": null,
+    "plots_enabled": true,
+    "max_plot_rows": 25
+  },
+  "output": {
+    "run_folder": "D:\\GitHub\\options-pricing\\outputs\\20251227_173550",
+    "results_csv": "D:\\GitHub\\options-pricing\\outputs\\20251227_173550\\option_mc_results.csv",
+    "charts_folder": "D:\\GitHub\\options-pricing\\outputs\\20251227_173550\\charts"
+  },
+  "stats": {
+    "rows_total": 5,
+    "rows_ok": 5,
+    "rows_failed": 0,
+    "charts_saved_rows": 5
+  },
+  "environment": {
+    "python": "3.12.10",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "matplotlib": "3.10.8",
+    "scipy_available": true
+  }
+}

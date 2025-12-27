@@ -1,0 +1,6 @@
+﻿underlying price (S),strike price (K),time to maturity in years (T),volitility,type
+100,90,3,0.2,Call
+400,354,10,0.43,Call
+231,267,5.5,0.1,Put
+564,600,2,0.32,Call
+32,45,1,0.156,Put
